@@ -2,8 +2,8 @@
 
 ## I am a fullstack developer who enjoys learning about current technologies. I am also a keen runner and play guitar.
 
-- 🔭 I’m currently working as an Automation Tester for Innovation Group
-- 🌱 I’m currently building a game in Unity with some friends
+- 🔭 Currently working as an Automation Tester for Innovation Group
+- 🌱 Building a game in Unity with some friends
 - 📫 Message me on LinkedIn
 
 
