@@ -2,7 +2,7 @@
 
 ## I am a fullstack developer who enjoys learning about current technologies. I am also a keen runner and play guitar.
 
-- 🔭 Currently working as an Automation Tester for Innovation Group
+- 🔭 Currently doing automation testing at Dorset Software
 - 🌱 Building a game in Unity with some friends
 - 📫 Message me on LinkedIn
 
