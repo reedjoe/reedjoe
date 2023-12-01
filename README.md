@@ -1,9 +1,9 @@
 ### Joe Reed
 
-## I am a fullstack developer who enjoys learning about current technologies. I am also a keen runner and play guitar.
+## I am a fullstack developer who enjoys learning about current technologies. I am also a keen runner/cyclist and play guitar.
 
-- 🔭 Currently doing fullstack development at Dorset Software
-- 🌱 Building a game in Unity with some friends
+- 🔭 Currently working as a fullstack tech lead on a scrum team
+- 🌱 Building an app using Angular/.NetCore
 - 📫 Message me on LinkedIn
 
 
