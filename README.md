@@ -2,7 +2,7 @@
 
 ## I am a fullstack developer who enjoys learning about current technologies. I am also a keen runner/cyclist and play guitar.
 
-- 🔭 Currently working as tech lead on a scrum team
+- 🔭 Currently working as a .Net developer
 - 🌱 Building an app using Angular/.NetCore
 - 📫 Message me on LinkedIn
 
